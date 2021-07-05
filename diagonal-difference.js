@@ -1,3 +1,6 @@
+// kalkulasi nilai absoluti dari diagonal matrix
+// left to right, right to left
+
 let arr = [
     [1,2,3],
     [4,5,6],
